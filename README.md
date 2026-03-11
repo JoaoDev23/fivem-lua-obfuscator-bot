@@ -9,7 +9,7 @@ The main goal at the time was to make it **harder to read or copy server scripts
 
 ---
 
-# ⚠️ Important Notice
+# Important Notice
 
 This project is **very old and extremely basic** compared to modern obfuscation methods.
 
