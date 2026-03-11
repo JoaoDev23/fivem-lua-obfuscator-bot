@@ -1,6 +1,6 @@
 # Lua FiveM Obfuscator Discord Bot
 
-This repository contains an **old Lua obfuscator project** that I created some time ago for **FiveM servers**.
+This repository contains an **old Lua obfuscator project** that I created 2023 ago for **FiveM servers**.
 
 The project is a **Discord bot** that allows users to upload a `.lua` file.  
 The bot downloads the file, obfuscates the code and sends the obfuscated version back to the user through **Discord DMs**.
